@@ -1,0 +1,21 @@
+test code
+
+-------------SIDEBAR START--------------------------------
+    <div class="wrapper">
+      <!-- Sidebar -->
+      <nav id="sidebar">
+          <div class="sidebar-header">
+              <h1>Visualizations</h1>
+              <hr>
+          </div>
+    
+          <ul class="list-unstyled components">
+              <p>Visualizations</p>
+                  <a href="#">pic</a>
+              </li>
+              <li>
+                  <a href="#">pic</a>
+              </li>
+          </ul>
+      </nav>
+-------------SIDEBAR END--------------------------------

@@ -1,0 +1,22 @@
+/* h1 heading tag */
+h1 {
+    color: rgb(13, 117, 117);
+    font-size: 35px
+  }
+
+
+.hunter_green {
+    color: rgb(13, 117, 117)
+}
+
+.background{
+  background-color: lightgray
+}
+
+.img {
+  float: left;
+}
+
+
+
+
