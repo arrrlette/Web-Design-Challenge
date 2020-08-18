@@ -31,3 +31,8 @@ h1 {
 .pic {
   width: 100%;
 }
+
+/* @media (max-width: 600px) { 
+  .background {
+    background: purple;
+  }*/
