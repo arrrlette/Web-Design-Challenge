@@ -32,6 +32,20 @@ h1 {
   width: 100%;
 }
 
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+}
+
+.marginfix{
+  margin-right: 0px !important; /*important will overide other classes/attributes*/
+
+
+}
+
+
 /* @media (max-width: 600px) { 
   .background {
     background: purple;
