@@ -32,17 +32,25 @@ h1 {
   width: 100%;
 }
 
-.container{
+.comparisons {
   display: flex;
   justify-content: center;
   align-items: center;
   background-color: white;
 }
 
+
 .marginfix{
   margin-right: 0px !important; /*important will overide other classes/attributes*/
+}
+
+.table{
+  background-color: white;
+}
 
 
+.bgw{
+  background-color: white;
 }
 
 
