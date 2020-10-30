@@ -1,8 +1,9 @@
 # Latitude and Weather Analysis Dashboard
+ 
+The purpose of this project was to analyze how weather changes as you get closer to the equator. To accomplish this analysis, I first pulled data from the OpenWeatherMap API to assemble a dataset on over 500 cities.
 
-In this project, I created a visualization dashboard displaying the effects of latitude on city weather data. The variables analyzed included cloudiness, humidity, temperature, and wind speed.
-
-The dasboard contains individual pages for each plot and the ability to navigate between them. These pages contain the visualizations and their corresponding explanations. There is a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
+After assembling the dataset, I used Matplotlib to plot various aspects of the weather vs. latitude. Factors I looked at included: temperature, cloudiness, wind speed, and humidity. This site provides the source data and visualizations created as part of the analysis, as well as explanations and descriptions of any trends and
+correlations witnessed.
 
 Jupyter Notebooks, Pandas, Matplotlib, HTML/CSS, and Bootstrap were used in the creation of this website.
 
