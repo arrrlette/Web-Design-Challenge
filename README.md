@@ -6,7 +6,11 @@ The dasboard contains individual pages for each plot and the ability to navigate
 
 Jupyter Notebooks, Pandas, Matplotlib, HTML/CSS, and Bootstrap were used in the creation of this website.
 
-- include deployment link (live website)
+The website was displayed using github pages: https://arrrlette.github.io/Web-Design-Challenge/
+
+Thank you for visiting my github page.
+
+- Arlette Varela
 
 
 
